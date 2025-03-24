@@ -30,3 +30,4 @@ while is_running:
     else:
         print("invalid guess")
         print(f"please select number between {low} and {high}")
+input("\n Press Enter to exit.")
